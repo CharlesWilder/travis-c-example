@@ -1,0 +1,2 @@
+before_script: "make test"
+script: "./travis-c-test"
