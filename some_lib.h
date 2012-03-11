@@ -3,4 +3,4 @@
 
 int random_return( void );
 
-#endif _SOME_LIB_H
+#endif
